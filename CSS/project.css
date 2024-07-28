@@ -1,0 +1,107 @@
+
+*{
+    margin: 0;
+    padding:0;
+}
+nav{
+    background-color: black;
+    color: white;
+    padding:20px
+}
+
+h1,li,ul{
+    display:inline;
+    
+}
+
+ul{
+    margin-left: 60%;
+}
+li{
+    margin-right: 20px;
+    color:rgb(241, 218, 218);
+    cursor:pointer;
+}
+
+li:hover{
+    color:white;
+}
+
+input{
+    width: 60%;
+    padding:15px;
+    border-radius: 20px;
+   
+}
+
+.search{
+    padding: 50px;
+    text-align: center;
+}
+.box1{
+    border-color:black;
+    border-width: 3px;
+    border-style: solid;
+    display:inline-block;
+    width:220px;
+    height: 320px;
+   
+
+}
+img{
+    height:220px;
+    width:220px
+}
+.box2{
+    border-color:black;
+    border-width: 3px;
+    border-style: solid;
+    display:inline-block;
+    width:220px;
+    height: 320px;
+}
+.box3{
+    border-color:black;
+    border-width: 3px;
+    border-style: solid;
+    display:inline-block;
+    width:220px;
+    height: 320px;
+}
+.products{
+    text-align: center;
+}
+.box1:hover{
+    background-color: black;
+    color: white;
+}
+.box2:hover{
+    background-color: black;
+    color: white;
+}
+.box3:hover{
+    background-color: black;
+    color: white;
+}
+
+.about{
+    text-align: center;
+    margin-top: 20px;
+    padding:40px;
+}
+.footer{
+    background-color: black;
+    color:white;
+}
+
+h3,h4{
+    text-align: center;
+    
+
+}
+.para{
+    margin-top: 30px;
+    text-align: center;
+    font-size: 15px;
+  
+}
